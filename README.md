@@ -173,5 +173,5 @@ If you find LLaVA useful for your research and applications, please cite using t
 
 ## Acknowledgement
 
-- [InternVL](https://github.com/OpenGVLab/InternVL): the codebase we built upon, and our base model InternVL-40B that has the amazing vision language capabilities!
+- [InternVL](https://github.com/OpenGVLab/InternVL): the codebase we built upon, and our base model InternVL-Chat-V1.2-Plus that has the amazing vision language capabilities!
 

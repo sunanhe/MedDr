@@ -2,6 +2,11 @@
 
 *A generalist foundation model for healthcare capable of handling diverse medical data modalities.*
 
+<div align=left>
+<img src=examples/logo.jpg width=15% />
+</div>
+
+
  [[Project Page](https://smart-meddr.github.io/)] [[🤗Space](https://huggingface.co/Sunanhe/MedDr_0401)] 
 
 **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[Paper](https://arxiv.org/abs/2404.xxxxx)] <br>

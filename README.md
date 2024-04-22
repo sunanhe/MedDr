@@ -175,9 +175,3 @@ If you find LLaVA useful for your research and applications, please cite using t
 
 - [InternVL](https://github.com/OpenGVLab/InternVL): the codebase we built upon, and our base model InternVL-40B that has the amazing vision language capabilities!
 
-
-- [Otter: In-Context Multi-Modal Instruction Tuning](https://github.com/Luodian/Otter)
-
-For future project ideas, please check out:
-- [SEEM: Segment Everything Everywhere All at Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
-- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) to detect, segment, and generate anything by marrying [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) and [Segment-Anything](https://github.com/facebookresearch/segment-anything).# MedDr

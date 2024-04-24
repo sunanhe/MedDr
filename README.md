@@ -9,7 +9,7 @@
 
  [[Project Page](https://smart-meddr.github.io/)] [[🤗Space](https://huggingface.co/Sunanhe/MedDr_0401)] 
 
-**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[Paper](https://arxiv.org/abs/2404.xxxxx)] <br>
+**MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[Paper](https://arxiv.org/abs/2404.15127)] <br>
 [Sunan He*](https://jerrrynie.github.io/), [Yuxiang Nie*](https://jerrrynie.github.io/), [Zhixuan Chen](https://zhi-xuan-chen.github.io/homepage/), [Zhiyuan Cai](https://github.com/Davidczy), Hongmei Wang, [Shu Yang](https://github.com/isyangshu), [Hao Chen**](https://cse.hkust.edu.hk/~jhc/) (*Equal Contribution, **Corresponding author)
 
 

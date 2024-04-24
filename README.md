@@ -14,7 +14,7 @@
 
 
 ## Release
-- [04/23] 🔥 We released **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**. We developed MedDr, a generalist foundation model for healthcare capable of handling diverse medical data modalities, including radiology, pathology, dermatology, retinography, and endoscopy. Check out the [paper](https://arxiv.org/abs/2404.xxxxx).
+- [04/23] 🔥 We released **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**. We developed MedDr, a generalist foundation model for healthcare capable of handling diverse medical data modalities, including radiology, pathology, dermatology, retinography, and endoscopy. Check out the [paper](https://arxiv.org/abs/2404.15127).
 
 </details>
 

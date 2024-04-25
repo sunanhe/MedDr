@@ -7,7 +7,7 @@
 </div>
 
 
- [[Project Page](https://smart-meddr.github.io/)] [[🤗Space](https://huggingface.co/Sunanhe/MedDr_0401)] 
+ [[Project Page](https://smart-meddr.github.io/)] [[🤗Model](https://huggingface.co/Sunanhe/MedDr_0401)] 
 
 **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning** [[Paper](https://arxiv.org/abs/2404.15127)] <br>
 [Sunan He*](https://jerrrynie.github.io/), [Yuxiang Nie*](https://jerrrynie.github.io/), [Zhixuan Chen](https://zhi-xuan-chen.github.io/homepage/), [Zhiyuan Cai](https://github.com/Davidczy), Hongmei Wang, [Shu Yang](https://github.com/isyangshu), [Hao Chen**](https://cse.hkust.edu.hk/~jhc/) (*Equal Contribution, **Corresponding author)
@@ -16,7 +16,13 @@
 ## Release
 - [04/23] 🔥 We released **MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning**. We developed MedDr, a generalist foundation model for healthcare capable of handling diverse medical data modalities, including radiology, pathology, dermatology, retinography, and endoscopy. Check out the [paper](https://arxiv.org/abs/2404.15127).
 
-</details>
+
+## Schedule
+
++ [x] Release the demo code.
++ [ ] Release the evaluation code.
++ [ ] Release the training code.
++ [ ] Release the data generation code.
 
 
 ## Environment
@@ -30,7 +36,6 @@ Download the [checkpoint](https://huggingface.co/Sunanhe/MedDr_0401) and change 
 ```Shell
 python3 demo.py
 ```
-
 
 ## Acknowledgement
 

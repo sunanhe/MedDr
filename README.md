@@ -3,7 +3,7 @@
 *A cooperative framework for generalist-specialist collaboration in medical AI.*
 
 <!-- markdownlint-disable MD033 -->
-<img src="examples/logo.jpg" alt="GSCo logo" width="360">
+<img src="examples/logo.jpg" alt="GSCo logo" width="150">
 <!-- markdownlint-enable MD033 -->
 
 [[Paper](https://www.nature.com/articles/s41551-026-01653-3)] [[MedDr](https://huggingface.co/Sunanhe/MedDr_0401)] [[Specialist Models](https://huggingface.co/Sunanhe/GSCo_Specialist)]

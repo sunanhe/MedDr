@@ -1,0 +1,172 @@
+[
+    {
+        "id": 0,
+        "study_id": 50414267,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s50414267/02aa804e-bde0afdd-112c0b34-7bc16630-4e384014.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "There is no focal consolidation, pleural effusion or pneumothorax.  Bilateral  nodular opacities that most likely represent nipple shadows. The  cardiomediastinal silhouette is normal.  Clips project over the left lung,  potentially within the breast. The imaged upper abdomen is unremarkable.  Chronic deformity of the posterior left sixth and seventh ribs are noted."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "study_id": 50414267,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s50414267/174413ec-4ec4c1f7-34ea26b7-c5f994f8-79ef1962.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "There is no focal consolidation, pleural effusion or pneumothorax.  Bilateral  nodular opacities that most likely represent nipple shadows. The  cardiomediastinal silhouette is normal.  Clips project over the left lung,  potentially within the breast. The imaged upper abdomen is unremarkable.  Chronic deformity of the posterior left sixth and seventh ribs are noted."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "study_id": 53189527,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s53189527/2a2277a9-b0ded155-c0de8eb9-c124d10e-82c5caab.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "The cardiac, mediastinal and hilar contours are normal. Pulmonary vasculature  is normal.  Lungs are clear. No pleural effusion or pneumothorax is present.  Multiple clips are again seen projecting over the left breast.  Remote  left-sided rib fractures are also re- demonstrated."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "study_id": 53189527,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s53189527/e084de3b-be89b11e-20fe3f9f-9c8d8dfe-4cfd202c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "The cardiac, mediastinal and hilar contours are normal. Pulmonary vasculature  is normal.  Lungs are clear. No pleural effusion or pneumothorax is present.  Multiple clips are again seen projecting over the left breast.  Remote  left-sided rib fractures are also re- demonstrated."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "study_id": 53911762,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s53911762/68b5c4b1-227d0485-9cc38c3f-7b84ab51-4b472714.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "Single frontal view of the chest provided.    There is no focal consolidation, effusion, or pneumothorax. The  cardiomediastinal silhouette is normal.  Again seen are multiple clips  projecting over the left breast and remote left-sided rib fractures.  No free  air below the right hemidiaphragm is seen."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "study_id": 53911762,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s53911762/fffabebf-74fd3a1f-673b6b41-96ec0ac9-2ab69818.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "Single frontal view of the chest provided.    There is no focal consolidation, effusion, or pneumothorax. The  cardiomediastinal silhouette is normal.  Again seen are multiple clips  projecting over the left breast and remote left-sided rib fractures.  No free  air below the right hemidiaphragm is seen."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "study_id": 56699142,
+        "subject_id": 10000032,
+        "split": "train",
+        "image": "files/p10/p10000032/s56699142/ea030e7a-2e3b1346-bc518786-7a8fd698-f673b44c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "The lungs are clear of focal consolidation, pleural effusion or pneumothorax.   The heart size is normal.  The mediastinal contours are normal. Multiple  surgical clips project over the left breast, and old left rib fractures are  noted."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "study_id": 57375967,
+        "subject_id": 10000764,
+        "split": "train",
+        "image": "files/p10/p10000764/s57375967/096052b7-d256dc40-453a102b-fa7d01c6-1b22c6b4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "PA and lateral views of the chest provided.   The lungs are adequately  aerated.    There is a focal consolidation at the left lung base adjacent to the lateral  hemidiaphragm. There is mild vascular engorgement. There is bilateral apical  pleural thickening.    The cardiomediastinal silhouette is remarkable for aortic arch calcifications.  The heart is top normal in size."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "study_id": 57375967,
+        "subject_id": 10000764,
+        "split": "train",
+        "image": "files/p10/p10000764/s57375967/b79e55c3-735ce5ac-64412506-cdc9ea79-f1af521f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "PA and lateral views of the chest provided.   The lungs are adequately  aerated.    There is a focal consolidation at the left lung base adjacent to the lateral  hemidiaphragm. There is mild vascular engorgement. There is bilateral apical  pleural thickening.    The cardiomediastinal silhouette is remarkable for aortic arch calcifications.  The heart is top normal in size."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "study_id": 57375967,
+        "subject_id": 10000764,
+        "split": "train",
+        "image": "files/p10/p10000764/s57375967/dcfeeac4-1597e318-d0e6736a-8b2c2238-47ac3f1b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou are a helpful medical assistant. Your task is report generation. You are given a chest x-ray image and you are required to generate a summary report about the image."
+            },
+            {
+                "from": "gpt",
+                "value": "PA and lateral views of the chest provided.   The lungs are adequately  aerated.    There is a focal consolidation at the left lung base adjacent to the lateral  hemidiaphragm. There is mild vascular engorgement. There is bilateral apical  pleural thickening.    The cardiomediastinal silhouette is remarkable for aortic arch calcifications.  The heart is top normal in size."
+            }
+        ]
+    }
+]

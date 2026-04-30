@@ -45,3 +45,31 @@ for i in range(5):
         )
     print(response)
 
+"""
+################# Case:  0 #################
+Findings:
+- The retinography image shows a significant amount of retinal hemorrhages scattered throughout the retina.
+- The hemorrhages vary in size and shape, with some appearing as small spots and others as larger, more diffuse areas of bleeding.
+- The retinal vessels appear to be dilated and tortuous, indicating increased blood flow and pressure within the vessels.
+- There is a notable presence of exudates, which are small, yellowish deposits of protein and lipid material that have leaked from the blood vessels into the retinal tissue.
+
+Impressions:
+- The retinography image reveals a case of BRVO (Branch Retinal Vein Occlusion), which is a blockage of a branch of the retinal vein.
+- The presence of retinal hemorrhages, dilated and tortuous vessels, and exudates are indicative of the underlying vascular pathology associated with BRVO.
+- Further evaluation and management may be necessary to address the underlying cause of the BRVO and to prevent potential complications, such as macular edema or neovascularization.
+################# Case:  1 #################
+Findings:
+- The image shows a close-up view of the colon, with a focus on the colon's inner lining.
+- The colon appears to be inflamed, with visible redness and swelling.
+- There are small white specks scattered throughout the colon's inner lining.
+
+Impressions:
+- The presence of inflammation and white specks in the colon's inner lining suggests a possible diagnosis of ulcerative colitis.
+- Further testing and consultation with a gastroenterologist may be necessary to confirm the diagnosis and determine the appropriate treatment plan.
+################# Case:  2 #################
+the optic nerve
+################# Case:  3 #################
+no
+################# Case:  4 #################
+Osteophytes,Surgical implant
+"""

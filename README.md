@@ -2,9 +2,11 @@
 
 *A cooperative framework for generalist-specialist collaboration in medical AI.*
 
-![GSCo logo](examples/logo.jpg)
+<!-- markdownlint-disable MD033 -->
+<img src="examples/logo.jpg" alt="GSCo logo" width="360">
+<!-- markdownlint-enable MD033 -->
 
-[[Nature Biomedical Engineering](https://www.nature.com/articles/s41551-026-01653-3)] [[DOI](https://doi.org/10.1038/s41551-026-01653-3)] [[MedDr](https://huggingface.co/Sunanhe/MedDr_0401)] [[Specialist Models](https://huggingface.co/Sunanhe/GSCo_Specialist)]
+[[Paper](https://www.nature.com/articles/s41551-026-01653-3)] [[MedDr](https://huggingface.co/Sunanhe/MedDr_0401)] [[Specialist Models](https://huggingface.co/Sunanhe/GSCo_Specialist)]
 
 ## Project Overview
 
